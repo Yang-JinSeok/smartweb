@@ -9,7 +9,7 @@ public class insert {
 		String url="jdbc:mysql://127.0.0.1:3306/haksa?useUnicode=true&amp;characterEncoding=euckr";
 		String user="root";
 		String password="1111";
-		String a;
+		String aaa;
 		String sql;
 		
 		
